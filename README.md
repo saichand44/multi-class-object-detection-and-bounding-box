@@ -6,7 +6,7 @@ Project to classify a given image into three classes / categories - airplane, fa
 VGG16 model is used for training on three categories of images - airplane, face and motorcycle.
 
 ### Results
-#### Class Label Loss
+#### Loss
 ![image](https://user-images.githubusercontent.com/14955987/209325641-5738b519-5b92-41c1-9b0c-9c58e273a55a.png)
 
 #### Accuracy
